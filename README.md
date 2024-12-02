@@ -25,3 +25,7 @@ This Python script classifies packages into different stacks based on their volu
 1. Clone the repository:
    ```bash
    git clone https://github.com/wahyeung/package-sorter.git
+
+## Hosting on Repl.it
+
+For immediate code review, the script is hosted online. You can test it here: [Run on Replit](https://replit.com/@browahyeung/Python-script-for-sorting-packages#main.py)
